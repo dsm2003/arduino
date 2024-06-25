@@ -1,3 +1,5 @@
+// C++ code
+//
 #include<Servo.h>
 Servo myServo;
 
